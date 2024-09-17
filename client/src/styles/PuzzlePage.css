@@ -1,0 +1,9 @@
+.puzzle-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    background: #aee2f7;
+    color: white;
+}
